@@ -1,16 +1,16 @@
 # Deconstruye la informáTICa, deconstruye el centro.
 
-## InformaTICamp II, Cefire de Castellón 2017
+### InformaTICamp II, Cefire de Castellón 2017
 
 ###Daniel Pastor Peidro (@dapaspei)
 
----?image=https://pixabay.com/photo-1582979/
+---?image=https://pixabay.com/get/e830b90d21f3083ed1534705fb094e91e176e6d104b015489cf0c771a7ecb2/lego-1582979_1920.jpg
 
 ---
 
 > No busco la perfección, busco el aprendizaje y la motivación.
 
----?image=https://pixabay.com/es/motivaci%C3%B3n-carrera-de-obst%C3%A1culos-704745/
+---?image=https://pixabay.com/get/ee35b5082cf11c22d9584518a3444194e273e6c818b5184895f6c979a1ee/motivation-704745_1920.jpg
 
 ---
 
