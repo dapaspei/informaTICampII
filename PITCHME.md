@@ -13,24 +13,26 @@ No busco la perfección, busco el aprendizaje y la motivación.
 
 ---?image=https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg
 
-¿Informática?
-¡Uf, qué rollo!
+# ¿Informática?
+# ¡Uf, qué rollo!
 
 ---?image=assets/notime.jpg&size=cover
 
 ---
 
-El origen de MI cambio
+## El origen de MI cambio
 
 ![Novadors](assets/novadors.png)
 
 ---
 
-El origen de MI cambio
+## El origen de MI cambio
 
 ![Vicent Llopis](assets/reprographic.jpg)
 
 ---
+
+## Situación del centro
 
 - Entre 20 y 25 alumnos son repetidores en 1º de ESO
 - 45% de fracaso escolar en la ESO
@@ -55,7 +57,7 @@ http://fernandotrujillo.es/por-que-han-fracasado-las-competencias-en-educacion-l
 ```
 ---
 
-A mi me pagan por ...
+# A mi me pagan por ...
 
 ---
 
@@ -66,50 +68,59 @@ Conocimientos
 Habilidades
 Actitudes
 
-Distribución “asignaturas” en 
-1º de ESO
+---
 
-Distribución 1º ESO
-Valores y Religión
-3h + 1 Tutoria
-Varias M. Activas
-Ámbito Sociales y Naturales
-6h
-2 profes
-ABP
-Matemáticas
-3h
-2 profes
-Varias M. Activas
+#Distribución “asignaturas” en 1º de ESO
 
-Distribución 1º ESO
-Cast / Val / Inglés
-3h/cada
-Libro de Texto + Proyectos
-Edu. Física + Música
-4h
-Varias M. Activas
-Grupos
-Tecnología
-2h
-Clases + teóricas y Proyectos
+---
 
-Talleres - Optativas
-Teatro
-Y 
-Márketing
-Scratch y Robótica
-Huerto Escolar
+### Valores y Religión
 
-Taller
-1º de ESO
+- 3h + 1 Tutoria
+- Varias Metologías Activas
 
-Scratch y Robótica
-Robótica
-mBot
-Pensamiento computacional 
-Code.org
-Scratch
+### Ámbito Sociales y Naturales
+
+- 6h
+- 2 profes
+- ABP
+
+### Matemáticas
+- 3h
+- 2 profes
+- Varias M. Activas
+
+---
+
+### Cast / Val / Inglés
+- 3h/cada
+- Libro de Texto + Proyectos
+
+### Edu. Física + Música
+- 4h
+- Varias M. Activas
+- Grupos
+
+### Tecnología
+- 2h 
+- Clases + teóricas y Proyectos
+
+---
+
+# Talleres - Optativas
+- Teatro y Márketing
+- **Scratch y Robótica**
+- Huerto Escolar
+
+---
+
+## Taller: Scratch y Robótica
+
+- Pensamiento computacional (Code.org)
+- Scratch 
+- Robótica (mBot)
+
+---
 
 Pensamiento Computacional
 http://j.mp/CotesCode
@@ -121,73 +132,71 @@ aprendecodigo21.educacion.navarra.es
 mBot
 makeblock.es
 
+---
+
 ClassDojo
 
-
-ClassDojo
-
+---
 
 
+[Pechakucha de Hugo](https://cotesbaixes-my.sharepoint.com/personal/danielpastor_iescotesbaixes_org/_layouts/15/guestaccess.aspx?docid=02b95d20ad6bf4fda9f8b82d62915ef2a&authkey=Adks4eqSHsyljw8Vc7Rqq1s)
 
-mBot
-Montaje
-
-
-
-Pechakucha de Hugo
-https://cotesbaixes-my.sharepoint.com/personal/danielpastor_iescotesbaixes_org/_layouts/15/guestaccess.aspx?docid=02b95d20ad6bf4fda9f8b82d62915ef2a&authkey=Adks4eqSHsyljw8Vc7Rqq1s
+---
 
 
-Valoración del curso
-https://dapaspei.typeform.com/report/QyE2pz/b5bx
+[Valoración del curso](https://dapaspei.typeform.com/report/QyE2pz/b5bx)
 
+---
 
-Proyectos Globales en 1º ESO
+# Proyectos Globales en 1º ESO
 
-Proyectos Globales
-10%
-Reto a resolver en una semana.
-Trabajo en equipo.
-Cubrir la parte transversal del currículum.
-Potenciar: autonomía, actitud, trabajo en equipo, comunicación.
-Proceso vs Producto Final.
+- 10%
+- Reto a resolver en una semana.
+- Trabajo en equipo.
+- Cubrir la parte transversal del currículum.
+- Potenciar: autonomía, actitud, trabajo en equipo, comunicación.
+- Proceso vs Producto Final.
 
-Proyectos Globales
-Producto final
-Familias
-Formación
-Salidas extraescolares
-Planificación
-Diseño
-Ejecución
+---
 
-Proyectos Globales
+# Proyectos Globales
+- Producto final
+- Familias
+- Formación
+- Salidas extraescolares
+- Planificación
+- Diseño
+- Ejecución
 
-Cotes Cuina
+---
 
-Conta’m i Acció
+# Proyectos Globales
 
-Cotes està de moda
+1. Cotes Cuina
+2. Conta’m i Acció
+3. Cotes està de moda
 
-Evaluación
+---
 
-Evaluación
+# Evaluación
 
-Evaluación
-Comunicación 
-Expresión
-Actitud individual
-Trabajo en equipo
-Creatividad
-Originalidad
-Planificación 
-Resolución
+- Comunicación 
+- Expresión
+- Actitud individual
+- Trabajo en equipo
+- Creatividad
+- Originalidad
+- Planificación 
+- Resolución
 
-Otros Proyectos
+---
 
-Revista
-enTERA2.0
-Revista: https://issuu.com/espiral/docs/08112016_entera2.0_2016/122
+# Otros Proyectos
+
+## [Revista enTERA2.0](https://issuu.com/espiral/docs/08112016_entera2.0_2016/122)
+![Revista enTERA2.0](assets/entera2.jpg)
+
+---
 
 
 Juanavana
