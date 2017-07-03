@@ -4,7 +4,7 @@
 
 #### Daniel Pastor Peidro (@dapaspei)
 
----?image=assets/lego.jpg
+---?image=assets/lego.jpg&size=cover
 
 ---
 
