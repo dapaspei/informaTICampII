@@ -42,17 +42,22 @@ El origen de MI cambio
 
 ---
 
-Competencias clave
+![Competencias Clave](http://www.mecd.gob.es/dms/mecd/educacion-mecd/mc/lomce/el-curriculo/curriculo-primaria-eso-bachillerato/competencias-clave/competencias-clave/collage-rueca/collage-rueca.png)
 
-Competencias 
-Clave
+
+---
+
+## Competencias Clave
+> 
 [...] Tenían fuerza de transformación, en nuestra opinión, porque venían a cambiar las relaciones entre los docentes y sus materias, los modos de enseñar y aprender, la manera de evaluar y, sobre todo, la forma de entender nuestra relación con el entorno. [...]
+```
 http://fernandotrujillo.es/por-que-han-fracasado-las-competencias-en-educacion-lecciones-para-futuros-intentos-de-innovacion-educativa/
-
-http://www.mecd.gob.es/dms/mecd/educacion-mecd/mc/lomce/el-curriculo/curriculo-primaria-eso-bachillerato/competencias-clave/competencias-clave/collage-rueca/collage-rueca.png
-
+```
+---
 
 A mi me pagan por ...
+
+---
 
 SABER
 HACER
