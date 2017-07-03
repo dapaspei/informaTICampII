@@ -6,21 +6,21 @@
 
 #### Daniel Pastor Peidro (@dapaspei)
 
----
+---?image=assets/esfuerzo.jpg&size=cover
 
 > No busco la perfección, busco el aprendizaje y la motivación.
 
----?image=https://pixabay.com/get/ee35b5082cf11c22d9584518a3444194e273e6c818b5184895f6c979a1ee/motivation-704745_1920.jpg
+---?image=https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg
 
 ---
-
-https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg
-
 
 ¿Informática?
 Uf! Qué rollo!
 
-https://pixabay.com/en/no-time-inspirational-motivation-1169977/
+---?image=assets/notime.jpg&size=cover
+
+---
+
 
 
 El origen de MI cambio
