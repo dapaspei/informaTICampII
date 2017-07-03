@@ -1,8 +1,9 @@
 ---?image=assets/lego.jpg&size=cover
 
-## Deconstruye la informáTICa, deconstruye el centro.
+## Deconstruye la informáTICa, deconstruye el centro
 
-### InformaTICamp II, Cefire de Castellón 2017
+### InformaTICamp II
+### Cefire de Castellón 2017
 
 #### Daniel Pastor Peidro (@dapaspei)
 
@@ -11,9 +12,10 @@
 No busco la perfección, busco el aprendizaje y la motivación.
 ```
 
----?image=https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg
+---?image=https://commons.wikimedia.org/wiki/File:Red\_and\_blue\_pill.jpg
 
 # ¿Informática?
+
 # ¡Uf, qué rollo!
 
 ---?image=assets/notime.jpg&size=cover
@@ -22,13 +24,13 @@ No busco la perfección, busco el aprendizaje y la motivación.
 
 ## El origen de MI cambio
 
-![Novadors](assets/novadors.png)
+![Novadors][image-1]
 
 ---
 
-## El origen de MI cambio
+##  El origen de MI cambio
 
-![Vicent Llopis](assets/reprographic.jpg)
+![Vicent Llopis][image-2]
 
 ---
 
@@ -40,11 +42,11 @@ No busco la perfección, busco el aprendizaje y la motivación.
 
 ---
 
-![Video](https://player.vimeo.com/video/222884343)
+![Video][image-3]
 
 ---
 
-![Competencias Clave](http://www.mecd.gob.es/dms/mecd/educacion-mecd/mc/lomce/el-curriculo/curriculo-primaria-eso-bachillerato/competencias-clave/competencias-clave/collage-rueca/collage-rueca.png)
+![Competencias Clave][image-4]
 
 
 ---
@@ -70,7 +72,7 @@ Actitudes
 
 ---
 
-#Distribución “asignaturas” en 1º de ESO
+# Distribución “asignaturas” en 1º de ESO
 
 ---
 
@@ -139,12 +141,12 @@ ClassDojo
 ---
 
 
-[Pechakucha de Hugo](https://cotesbaixes-my.sharepoint.com/personal/danielpastor_iescotesbaixes_org/_layouts/15/guestaccess.aspx?docid=02b95d20ad6bf4fda9f8b82d62915ef2a&authkey=Adks4eqSHsyljw8Vc7Rqq1s)
+[Pechakucha de Hugo][1]
 
 ---
 
 
-[Valoración del curso](https://dapaspei.typeform.com/report/QyE2pz/b5bx)
+[Valoración del curso][2]
 
 ---
 
@@ -193,8 +195,8 @@ ClassDojo
 
 # Otros Proyectos
 
-## [Revista enTERA2.0](https://issuu.com/espiral/docs/08112016_entera2.0_2016/122)
-![Revista enTERA2.0](assets/entera2.jpg)
+## [Revista enTERA2.0][3]
+![Revista enTERA2.0][image-5]
 
 ---
 
@@ -256,7 +258,7 @@ Airtable
 Gamesonomy: http://www.gamesonomy.com/9ian5hw690r/
 Dobble: http://j.mp/DobbleDrive
 Airtable: https://airtable.com/shrA7OEn0tlOkVpU8
-Corto 2D: https://www.canva.com/design/DACKgmkRJQI/TUb_uNnG5XXgRBopmazBAw/view?website
+Corto 2D: https://www.canva.com/design/DACKgmkRJQI/TUb\_uNnG5XXgRBopmazBAw/view?website
 CompraAlcoy: https://prezi.com/wdixdlwfd4qw/compra-alcoy/
 
 
@@ -308,13 +310,13 @@ http://www.repasodelengua.com/2017/06/malos-humos.html
 https://www.flickr.com/photos/gdsteam/14060922821
 
 
-V = (H + C) * A
+V = (H + C) \* A
 https://pixabay.com/es/burnout-bombillas-de-luz-idea-2291874/
 
 
 
 Enlaces e imágenes utilizadas
-https://issuu.com/espiral/docs/08112016_entera2.0_2016/122
+https://issuu.com/espiral/docs/08112016\_entera2.0\_2016/122
 https://pixabay.com/es/sal%C3%B3n-de-clases-presentaci%C3%B3n-1297780/
 https://docs.google.com/presentation/d/1HDRxpWtcz1GxaoAfVUlL5WMFRXicCkNz6FR31mGDVXI/edit#slide=id.p
 http://juanavana.iescotesbaixes.org/
@@ -323,7 +325,7 @@ https://www.youtube.com/watch?v=XCzIqPbEqdw
 http://www.gamesonomy.com/9ian5hw690r/
 http://j.mp/DobbleDrive
 https://airtable.com/shrA7OEn0tlOkVpU8
-https://www.canva.com/design/DACKgmkRJQI/TUb_uNnG5XXgRBopmazBAw/view?website
+https://www.canva.com/design/DACKgmkRJQI/TUb\_uNnG5XXgRBopmazBAw/view?website
 http://maxpixel.freegreatpicture.com/Turn-On-Switch-Electric-Technology-949114
 https://www.flickr.com/photos/gdsteam/14060922821
 http://www.repasodelengua.com/2017/06/malos-humos.html
@@ -331,7 +333,7 @@ https://pixabay.com/es/burnout-bombillas-de-luz-idea-2291874/
 https://www.youtube.com/watch?v=kPgA7F118Hg
 https://pixabay.com/photo-1582979/
 https://pixabay.com/es/motivaci%C3%B3n-carrera-de-obst%C3%A1culos-704745/
-https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg
+https://commons.wikimedia.org/wiki/File:Red\_and\_blue\_pill.jpg
 https://pixabay.com/en/no-time-inspirational-motivation-1169977/
 https://novadors.org/
 https://www.slideshare.net/vicentllopis/reprographic-students-8505227
@@ -344,3 +346,13 @@ https://www.classdojo.com/
 https://dapaspei.typeform.com/report/QyE2pz/b5bx
 https://www.youtube.com/channel/UCCZK4EP7vy4300tcjJQxWGw
 https://www.youtube.com/channel/UCPGBkudCp4tN0vx1IZfMlQg
+
+[1]:	https://cotesbaixes-my.sharepoint.com/personal/danielpastor_iescotesbaixes_org/_layouts/15/guestaccess.aspx?docid=02b95d20ad6bf4fda9f8b82d62915ef2a&authkey=Adks4eqSHsyljw8Vc7Rqq1s
+[2]:	https://dapaspei.typeform.com/report/QyE2pz/b5bx
+[3]:	https://issuu.com/espiral/docs/08112016_entera2.0_2016/122
+
+[image-1]:	assets/novadors.png
+[image-2]:	assets/reprographic.jpg
+[image-3]:	https://player.vimeo.com/video/222884343
+[image-4]:	http://www.mecd.gob.es/dms/mecd/educacion-mecd/mc/lomce/el-curriculo/curriculo-primaria-eso-bachillerato/competencias-clave/competencias-clave/collage-rueca/collage-rueca.png
+[image-5]:	assets/entera2.jpg
