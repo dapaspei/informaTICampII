@@ -21,22 +21,22 @@ No busco la perfección, busco el aprendizaje y la motivación.
 ---
 
 El origen de MI cambio
-![Novadors](---?image=assets/novadors.png)
+![Novadors](assets/novadors.png)
 
 ---
 
 El origen de MI cambio
-![Vicent Llopis](---?image=assets/reprograhic.png)
+![Vicent Llopis](assets/reprograhic.jpg)
 
-https://www.slideshare.net/vicentllopis/reprographic-students-8505227
+---
 
+- Entre 20 y 25 alumnos son repetidores en 1º de ESO
+- 45% de fracaso escolar en la ESO
+- La mitad de los alumnos abandonan en 2º de ESO
 
-Entre 20 y 25 alumnos son repetidores en 1º de ESO
-45% 
-de fracaso escolar en la ESO
-La mitad de los alumnos abandonan en 2º de ESO
+---?video=https://vimeo.com/222884343
 
-El circo
+---
 
 Competencias clave
 
