@@ -4,8 +4,6 @@
 
 ### Daniel Pastor Peidro (@dapaspei)
 
----
-
 ---?image=https://pixabay.com/get/e830b90d21f3083ed1534705fb094e91e176e6d104b015489cf0c771a7ecb2/lego-1582979_1920.jpg
 
 ---
