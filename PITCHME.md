@@ -4,6 +4,10 @@
 
 #### Daniel Pastor Peidro (@dapaspei)
 
+![](assets/lego.jpg&size=cover)
+
+---
+
 ---?image=assets/lego.jpg&size=cover
 
 ---
