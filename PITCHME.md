@@ -8,22 +8,26 @@
 
 ---?image=assets/esfuerzo.jpg&size=cover
 ```
-> No busco la perfección, busco el aprendizaje y la motivación.
+No busco la perfección, busco el aprendizaje y la motivación.
 ```
 
 ---?image=https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg
 
 ¿Informática?
-Uf! ¡Qué rollo!
+¡Uf, qué rollo!
 
 ---?image=assets/notime.jpg&size=cover
 
 ---
 
+El origen de MI cambio
+![Novadors](---?image=assets/novadors.png)
 
+---
 
 El origen de MI cambio
-https://novadors.org/
+![Vicent Llopis](---?image=assets/reprograhic.png)
+
 https://www.slideshare.net/vicentllopis/reprographic-students-8505227
 
 
