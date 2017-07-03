@@ -21,12 +21,14 @@ No busco la perfección, busco el aprendizaje y la motivación.
 ---
 
 El origen de MI cambio
+
 ![Novadors](assets/novadors.png)
 
 ---
 
 El origen de MI cambio
-![Vicent Llopis](assets/reprograhic.jpg)
+
+![Vicent Llopis](assets/reprographic.jpg)
 
 ---
 
