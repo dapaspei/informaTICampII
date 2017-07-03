@@ -4,12 +4,15 @@
 
 ###Daniel Pastor Peidro (@dapaspei)
 
-Foto: https://pixabay.com/photo-1582979/
+---?image=https://pixabay.com/photo-1582979/
+
+---
 
 > No busco la perfección, busco el aprendizaje y la motivación.
-Foto Runner: https://pixabay.com/es/motivaci%C3%B3n-carrera-de-obst%C3%A1culos-704745/
 
+---?image=https://pixabay.com/es/motivaci%C3%B3n-carrera-de-obst%C3%A1culos-704745/
 
+---
 
 https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg
 
