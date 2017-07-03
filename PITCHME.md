@@ -7,15 +7,14 @@
 #### Daniel Pastor Peidro (@dapaspei)
 
 ---?image=assets/esfuerzo.jpg&size=cover
-
+```
 > No busco la perfección, busco el aprendizaje y la motivación.
+```
 
 ---?image=https://commons.wikimedia.org/wiki/File:Red_and_blue_pill.jpg
 
----
-
 ¿Informática?
-Uf! Qué rollo!
+Uf! ¡Qué rollo!
 
 ---?image=assets/notime.jpg&size=cover
 
