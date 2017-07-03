@@ -1,14 +1,10 @@
+---?image=assets/lego.jpg&size=cover
+
 ## Deconstruye la informáTICa, deconstruye el centro.
 
 ### InformaTICamp II, Cefire de Castellón 2017
 
 #### Daniel Pastor Peidro (@dapaspei)
-
-![](assets/lego.jpg&size=cover)
-
-HHH
-
----?image=assets/lego.jpg&size=cover
 
 ---
 
